@@ -1,10 +1,36 @@
+
+
+
+
+
+
+
 <!DOCTYPE html>
 
-<html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta http-equihv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="viewport" content="width=device-width, initial-scale">
+
+</head>
+
 <body>
 
 <h1>Who am I </h1>
 
-<img src="https://www.instagram.com/p/CZUBTrSMH5i/?igshid=YmMyMTA2M2Y=">
+<br>
 
-Hello Guys I'm very beginner in programming or I'm going to start so I'm just trying here 👀
+  <br>
+
+<img src="272770846_440402691098271_8597612967213067909_n.webp.jpg">
+
+</body>
+
+</html>
+
+
